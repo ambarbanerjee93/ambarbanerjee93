@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ambar Bandyopadhyay
+- 👀 My goal is to contribute in open source problems
+- 📫 My email id: ambarbanerjee93@gmail.com
+- 📫 My linkedIn profile: https://www.linkedin.com/in/ambar-bandyopadhyay-15ab13aa/
